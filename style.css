@@ -14,7 +14,8 @@ header {
 
 /* Generic styles ----------------------------------------------*/
 body {
-  font-family: 'Quicksand', sans-serif;
+  /* font-family: 'Quicksand', sans-serif; */
+  font-family: 'Trochut', cursive;
 }
 
 header {
@@ -22,6 +23,7 @@ header {
   font-size: 2em;
   color: white;
   background-color: midnightblue;
+  font-family: 'Creepster', cursive;
 }
 
 .logo {
