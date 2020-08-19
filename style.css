@@ -1,12 +1,15 @@
 body {
-
-    background: url('./images/Defying-plain.jpg');
-
-  
+    background: url('./images/Defying-plain.jpg');  
 }
 
-.heading {
-    color: white;
+.logo {
+    padding-right: 5px;
 }
+
+.top {
+    border-radius: 0; color: white; background-color: black;
+}
+
+
 
 
