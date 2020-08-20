@@ -1,5 +1,6 @@
 body {
-    background: url('./images/Defying-plain.jpg');  
+    /* background: url('./images/Defying-plain.jpg');   */
+    background-color: azure;
 }
 
 .logo {
@@ -11,6 +12,7 @@ body {
     color: white;
     font-family: Creepster;
     font-size: 26px; 
+    border-radius: 0;
 }
 
 
