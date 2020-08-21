@@ -8,6 +8,10 @@ body {
     padding-left: 1px;
 }
 
+.lspace {
+    padding-left: 12px;
+}
+
 .logo {
     padding-right: 5px;
 }
