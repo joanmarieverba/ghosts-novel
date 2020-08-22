@@ -14,8 +14,13 @@ body {
     padding-left: 12px;
 }
 
+.lspace2 {
+    padding-left: 24vw;
+}
+
 .logo {
     padding-right: 5px;
+
 }
 
 .top {
