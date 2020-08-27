@@ -4,6 +4,12 @@ body {
     font-family: Alegreya;
 }
 
+.btn-set {
+    margin-top: 2vh;
+    margin-left: 2vw;
+    
+}
+
 .caption {
     background-color: gray;
     padding-left: 25px;
