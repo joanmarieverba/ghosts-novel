@@ -64,10 +64,15 @@ body {
     border-radius: 0;
 }
 
+.up {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
 .vspace {
     padding-top: 3vh;
 }
-
 
 
 
