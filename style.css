@@ -70,7 +70,9 @@ body {
     border-radius: 0;
 }
 
-
+ul {
+  list-style-type: none;
+}
 
 .vspace {
     padding-top: 3vh;
