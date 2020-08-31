@@ -35,6 +35,12 @@ body {
 
 }
 
+.return {
+    background-color: azure;
+    font-weight: bold;
+    text-align: center;
+}
+
 .spread {
     /* background-size: cover; */
     height: 100%;
@@ -64,11 +70,7 @@ body {
     border-radius: 0;
 }
 
-.up {
-    background-color: azure;
-    font-weight: bold;
-    text-align: center;
-}
+
 
 .vspace {
     padding-top: 3vh;
