@@ -7,7 +7,6 @@ body {
 .btn-set {
     margin-top: 2vh;
     margin-left: 1vw;
-
 }
 
 .caption {
@@ -79,4 +78,8 @@ ul {
 }
 
 
-
+/* @media screen and (max-width: 768px) {
+	.content__subtitle {
+		font-size: 1rem;
+	}
+} */
